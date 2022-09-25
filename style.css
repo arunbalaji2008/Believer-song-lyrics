@@ -1,0 +1,18 @@
+html, body {
+  
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: url("Believer.jpeg");
+  background-color: black;
+  
+  color: white;
+}
+.lyrics{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(253, 227, 179);
+  font-size: medium;
+}
+
+.link{
+  font-size: smaller;
+}
